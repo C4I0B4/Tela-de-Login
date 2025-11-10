@@ -119,4 +119,5 @@ body{
 
 .register-link a:hover{
     text-decoration: underline;
+    transition: 0.5s;
 }
